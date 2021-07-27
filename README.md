@@ -3,4 +3,4 @@
 
 ![santa_game_main](https://user-images.githubusercontent.com/66951780/127121560-e6508dbb-a2b4-4c50-851c-5e5fa80ba985.gif)
 
-<img width="80%" src="![santa_game_main](https://user-images.githubusercontent.com/66951780/127121560-e6508dbb-a2b4-4c50-851c-5e5fa80ba985.gif)"/>
+<img width="80%" src="https://user-images.githubusercontent.com/66951780/127121560-e6508dbb-a2b4-4c50-851c-5e5fa80ba985.gif"/>
